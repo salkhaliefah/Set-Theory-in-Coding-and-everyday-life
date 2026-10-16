@@ -1,7 +1,7 @@
 # Set-Theory-in-Coding-and-everyday-life
 Academic research paper exploring set theory concepts, set operations, and their applications in programming and everyday life.
 
-                                            Set Theory in Coding and Everyday Life
+                                   Set Theory in Coding and Everyday Life
 Have you ever noticed that when you repeatedly watch certain types of content or frequently visit the same websites, your phone starts tailoring what you see to match your interests? For example, Netflix’s “You Might Like” section suggests movies and shows similar to what you’ve already watched. Behind those polished screens is a system that tracks user behavior and customizes recommendations accordingly. 
 Before we connect this to our main point, let’s briefly touch on set theory. In mathematics, set theory is the study of sets — collections of objects (called elements) that can be analyzed, counted, and manipulated.
 In the world of programming, arrays work in a similar way. They store collections of elements that can be accessed, counted (iterated through), updated, and manipulated — much like sets in set theory. However, arrays maintain the order of elements and can contain duplicates, meaning the same value can appear more than once. In contrast, sets (both in mathematics and in coding) do not allow duplicates — any repeated value is stored only once. See image Figure 1 for a visualization. 
